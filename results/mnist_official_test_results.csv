@@ -1,2 +1,0 @@
-dataset,partition,model,hidden_layers,accuracy,f1_macro,log_loss,training_time_seconds,seed
-MNIST,official test set,MLP,"(128, 64)",0.9755,0.9753012194267955,0.09736012667417526,4.305959939956665,42
